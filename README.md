@@ -22,7 +22,7 @@ Because all looks good, we can go to Deploy and Run Transactions
 
 Make sure you have connected your MetaMask wallet, with balance in your account, look the following image: 
 
-![Deploy](/Images/Deploy_coin.png)
+![Deploy](/Images/Deploy_Coin.png) 
 
 Before deploy we have to type name, symbol and initial supply
 
