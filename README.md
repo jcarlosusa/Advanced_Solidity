@@ -46,7 +46,7 @@ Contract # 0xb2Cd47a7FECac2fa041FfEd55BC6f1F830DCb70d
 
 ![Deploy](/Images/newcontract.png)
 
-Details of transaction via Etherscan portal
+Details of transaction via Etherscan portal.
 
 ![Deploy](/Images/tx_details.png)
 
