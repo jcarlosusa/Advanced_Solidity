@@ -40,8 +40,19 @@ No we are start creating the Crowsales.sol and we need to need to bootstrap the 
 
 we will need the parameters for all of the features in our crowdsale, such as the `name`, `symbol`, `wallet` for fundraising, `goal`.
 
-Now we are creating a new contract
+Now we are creating a new contract with Ropsten Network
 
+Contract # 0xb2Cd47a7FECac2fa041FfEd55BC6f1F830DCb70d
+
+![Deploy](/Images/newcontract.png)
+
+Details of transaction via Etherscan portal
+
+![Deploy](/Images/tx_details.png)
+
+Buying Tokens
+
+![Deploy](/Images/buying_tokens.png)
 
 After deployed we can see the rate as 1000000000000000000 and the two adress for the token and the wallet
 
